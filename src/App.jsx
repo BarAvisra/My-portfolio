@@ -59,12 +59,12 @@ function App() {
                 Hi!
               </h2>
               <div className='text-5xl py-2 font-medium' style={{ color: '#8ECDDD' }}>
-                <span
-                  className="relative"
-                  style={{ top: '-8px', animation: 'fadeInUp 0.5s ease-out' }}
+                <div
+                  className="relative inline-block"
+                  style={{ top: '-9px', animation: 'fadeInUp 1s ease-out' }}
                 >
                   My Name is
-                </span>
+                </div>
                 <h2 className='text-7xl py-2 font-medium inline-block ml-2' style={{ color: '#22668D', animation: 'fadeInUp 1s ease-out' }}>
                   Bar Avisra
                 </h2>
